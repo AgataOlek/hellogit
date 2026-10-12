@@ -1,0 +1,2 @@
+# hellogit
+repozytorium do nauki
